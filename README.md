@@ -1,6 +1,6 @@
 # stripe-pricing-elite
 
-A polished, Stripe-inspired pricing page component — pure HTML, CSS, and vanilla JS. No framework, no build step.
+A polished, Stripe inspired pricing page component — pure HTML, CSS, and vanilla JS. No framework, no build step.
 
 ## Preview
 
