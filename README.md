@@ -8,7 +8,7 @@ A polished, Stripe inspired pricing page component — pure HTML, CSS, and vanil
 
 ## Plans
 
-| Plan | Monthly | Annual | Key Limits |
+| Plan | Monthly | Annual | Key Limitss |
 |---|---|---|---|
 | **Starter** | Free | Free | 3 projects · 5 GB · Community support |
 | **Growth** | $49 / seat | $39 / seat | Unlimited projects · 100 GB · Up to 10 seats |
